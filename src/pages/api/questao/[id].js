@@ -5,7 +5,11 @@ export default function questao(req, res) {
             id,
             enuciado: 'Qual sua cor perferida?',
             respostas: [ 
-                'Branca', 'Vemelha', 'Amarela', 'Verde', 'Azul'
+                'Branca', 
+                'Vermelha', 
+                'Amarela',
+                 'Verde', 
+                 'Azul'
             ]
         })
     }else {
