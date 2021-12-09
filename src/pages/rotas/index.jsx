@@ -12,7 +12,7 @@ export default function Rotas() {
         <div>
             <h1>Rotas teste</h1>
             <ul>
-                <Link href="/rotas/params?id=1233&nome=BIBI">
+                <Link href="/rotas/params?id=1233&nome=BIBI" passHref>
                     <li>Params</li>
                 </Link>
             </ul>
