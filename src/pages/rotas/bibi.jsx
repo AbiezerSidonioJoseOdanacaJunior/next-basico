@@ -1,6 +1,6 @@
 import router, { useRouter } from "next/router"
 
-export default function bibi() {
+export default function Bibi() {
     return (
         <div>
             <h1>Quem é você? </h1>
